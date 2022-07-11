@@ -11,7 +11,7 @@
     <description>数据源读写分离</description>
     <properties>
         <spring.version>5.2.5.RELEASE</spring.version>
-        <spring.cloud.version>2.2.2.RELEASE</spring.cloud.version>
+        <spring.cloud.version>2.2.11.RELEASE</spring.cloud.version>
         <charset>UTF-8</charset>
         <lombok.version>1.18.12</lombok.version>
         <druid.version>1.1.22</druid.version>
